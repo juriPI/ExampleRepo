@@ -8,7 +8,7 @@ public class Bitte_Loesen {
         int x = n+1;
         int y = n+m;
         int z = x + y;
-        System.out.printf("%f\n", z);
+        System.out.printf("%d\n", z);
     }
     
     public static void main(String[] args) {
