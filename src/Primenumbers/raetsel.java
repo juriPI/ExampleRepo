@@ -9,6 +9,7 @@ public class Bitte_Loesen {
         int y = n+m;
         int z = x + y;
         System.out.printf("%d\n", z);
+        System.out.printf("%p\n", x);
     }
     
     public static void main(String[] args) {
